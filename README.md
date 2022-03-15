@@ -57,6 +57,8 @@ bootstrampmade.com 템플릿을 이용 (https://bootstrapmade.com/demo/Tempo)
 
 ## 코드 컨베이션
 
+## 파이썬 코딩 스타일 가이드를 참고해서 
+
 ## 1. Code lay-out
 
 - 인덴트(Indent): 공백으로 4칸 들여쓰기
@@ -109,7 +111,7 @@ PEP8에서는 공백 4칸으로 들여쓰기 하는 것을 원칙으로 하고 �
 
 클래스 메소드의 첫 번째 인수는 항상 cls
 
-상수(Constant)는 모듈 단위에서만 정의, 모두 대문자
+상수(Constant)는 모듈 단위에서만 정의, 스네이크케이스(Snake Case)로 작성
 
 서울특별시 도봉구_맛집 현황(https://www.data.go.kr/data/3073323/fileData.do)
 
@@ -131,6 +133,10 @@ PEP8에서는 공백 4칸으로 들여쓰기 하는 것을 원칙으로 하고 �
 
 3/5 ~ 3/6: 데이터 시각화 및 Django 업로드
 
-3/7: 최종 마무리
+3/6 ~ 3/7 : login page 완료
+
+3/7 ~ 3/10 : 
+
+3/18: 최종 마무리 및 발표
 
 3/9: 완성
