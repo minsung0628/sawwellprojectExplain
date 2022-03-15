@@ -2,21 +2,19 @@
 
 팀 : 잘했조
 
-프로젝트 명 : 잘왔조(goodarrive)
+프로젝트 명 : saw well
 
-팀원 : 강민성, 김진우 오재광, 노현진, 이채림
+팀원 : 강민성, 김진우, 노현진, 이채림
 
 ## 역할
 
 팀장: 김진우: SQL 및 데이터 분석 및 django 
 
-팀원: 이채림: django 및 데이터 시각화
+팀원: 이채림: reivew orm 구축 및 review page 구현
 
-노현진: django 및 데이터 시각화
+노현진: login orm 구축 및 login page 구현
 
-오재광: SQL 및 데이터 분석, 최종 발표
-
-강민성: django 및
+강민성: html readable Code 및 데이터 조사
 
 
 ## 프로젝트 정보 
